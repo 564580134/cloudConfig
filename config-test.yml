@@ -1,2 +1,2 @@
-server:
-    port: 2244
+config:
+  info: test.model
